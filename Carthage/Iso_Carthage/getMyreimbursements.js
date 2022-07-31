@@ -6,7 +6,7 @@ document.getElementById("getallreimbursements").onclick = getEnglishWords
 async function getEnglishWords() {
 
   let response = await fetch(url + "/reimbursementsbyauthor", {
-    method: "POST"
+    method: "GET"
   })
 
   //log the response in the console just to see the respons eobject

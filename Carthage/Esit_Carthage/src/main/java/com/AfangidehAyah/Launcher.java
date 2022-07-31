@@ -45,7 +45,7 @@ public class Launcher {
 		reimbursementController rc = new reimbursementController();
 		AuthController ac = new AuthController();
 		app.get("/reimbursements", rc.getReimbursementsHandler);
-		app.post("/reimbursementsbyauthor", rc.getReimbursementsAuthHandler);
+		app.get("/reimbursementsbyauthor", rc.getReimbursementsAuthHandler);
 		app.post("/register", ec.addEmployee);
 		app.post("/login", ac.loginHandler);
 		app.post("/addstatus", rsc.addNewReimbursementStatus);
