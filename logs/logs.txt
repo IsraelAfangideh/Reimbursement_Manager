@@ -1,0 +1,22 @@
+2022-07-30 20:20:54 INFO  AuthController:55 - User Logged In!
+2022-07-30 20:33:03 INFO  AuthController:55 - User Logged In!
+2022-07-30 20:56:16 INFO  AuthController:54 - User Logged In!
+2022-07-30 20:56:44 INFO  reimbursementController:35 - Failed to insert new reimbursement
+2022-07-30 20:57:05 INFO  reimbursementController:35 - Failed to insert new reimbursement
+2022-07-30 20:58:12 INFO  AuthController:54 - User Logged In!
+2022-07-30 20:58:30 INFO  reimbursementController:35 - Failed to insert new reimbursement
+2022-07-30 21:01:04 INFO  AuthController:54 - User Logged In!
+2022-07-30 21:16:21 INFO  AuthController:54 - User Logged In!
+2022-07-30 21:16:37 INFO  reimbursementController:35 - Failed to insert new reimbursement
+2022-07-30 21:18:39 INFO  reimbursementController:35 - Failed to insert new reimbursement
+2022-07-30 21:21:23 INFO  AuthController:54 - User Logged In!
+2022-07-30 21:21:35 INFO  reimbursementController:30 - New reimbursement inserted
+2022-07-30 21:27:10 INFO  AuthController:54 - User Logged In!
+2022-07-30 21:27:32 INFO  reimbursementController:30 - New reimbursement inserted
+2022-07-30 21:28:06 INFO  AuthController:54 - User Logged In!
+2022-07-30 21:31:39 INFO  reimbursementController:30 - New reimbursement inserted
+2022-07-30 21:32:38 INFO  reimbursementController:30 - New reimbursement inserted
+2022-07-30 21:34:30 INFO  reimbursementController:30 - New reimbursement inserted
+2022-07-30 21:38:08 INFO  AuthController:54 - User Logged In!
+2022-07-30 21:43:57 INFO  AuthController:54 - User Logged In!
+2022-07-30 21:51:50 INFO  AuthController:54 - User Logged In!

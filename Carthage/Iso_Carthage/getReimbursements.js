@@ -1,4 +1,4 @@
-const url = "http://localhost:7171"
+const url = "http://127.0.0.1:7171"
 
 document.getElementById("getallreimbursements").onclick = getEnglishWords
 

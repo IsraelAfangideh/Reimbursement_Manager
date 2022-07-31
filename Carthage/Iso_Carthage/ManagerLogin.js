@@ -1,4 +1,4 @@
-const url = "http://localhost:7171"
+const url = "http://127.0.0.1:7171"
 // const url2 = "E:\Revature\Carthage\Iso_Carthage\Employees\addEmployee.html"
 
 document.getElementById("submit").onclick = login

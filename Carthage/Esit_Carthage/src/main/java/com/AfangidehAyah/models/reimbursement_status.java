@@ -9,7 +9,6 @@ public class reimbursement_status {
 	
 	public reimbursement_status() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 

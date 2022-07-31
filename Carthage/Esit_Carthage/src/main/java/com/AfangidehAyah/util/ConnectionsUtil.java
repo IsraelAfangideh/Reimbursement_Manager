@@ -30,7 +30,7 @@ public class ConnectionsUtil {
 				//Change Schema and Password
 				String url = "jdbc:postgresql://localhost:5432/postgres?currentSchema=carthage";
 				String username = "postgres";//should never change
-				String password = "password";//password for making a new connection in dbeaver
+				String password = "revature2022";//password for making a new connection in dbeaver
 				
 				//This return statement is what returns out actual database Connection object
 				//Note how this getConnection() method has a return type of Connection
